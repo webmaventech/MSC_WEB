@@ -1,0 +1,18 @@
+.round-ribbon {
+width: 10em;
+height: 70px;
+margin-top:-25px;
+-webkit-border-bottom-right-radius: 130px;
+-webkit-border-bottom-left-radius: 130px;
+-moz-border-radius-bottomright: 130px;
+-moz-border-radius-bottomleft: 130px;
+border-bottom-right-radius: 130px;
+border-bottom-left-radius: 130px;
+background-color: #2494f2;
+position: fixed;
+right: 20px;
+font-size: 1.2em;
+text-align: center;
+color: #FFFFFF;
+z-index: 10;
+}
